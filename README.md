@@ -41,6 +41,7 @@
     <div align= "">
       <img alt= "Static Badge" src="https://img.shields.io/badge/VisualStudio-white?style=flat-square&color=%239013FE">
       <img alt= "Static Badge" src="https://img.shields.io/badge/SQL%20Server-%234479A1?style=flat-square">
+      <img alt= "Static Badge" src="https://img.shields.io/badge/Swagger-%2385EA2D?style=flat-square">
       <img alt="Static Badge" src="https://img.shields.io/badge/Unity-dimgray?style=flat-square&logo=unity&logoColor=white">
       <img alt="Static Badge" src="https://img.shields.io/badge/Godot-dodgerblue?style=flat-square&logo=godotengine&logoColor=white">
       <img alt="Static Badge" src="https://img.shields.io/badge/Aseprite-white?style=flat-square&logo=aseprite&logoColor=black">
