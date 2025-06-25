@@ -6,7 +6,6 @@
 </div>
   
 ##
-
 <img align = "center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODY0dTlsY2E2eXkzZWluaHB4dzZkOXhmenFmeDZmOGdrYjVtZDN5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jQnqvoABIwlM6039F8/giphy.webp" width ="25"><b> |About Me|</b></img>
 <ul>
   <li>
