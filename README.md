@@ -1,6 +1,6 @@
 ### 
 
-<h1 align = "center">𝙷𝚒! 𝙸'𝚖 Abby</h1>
+<h1 align = "center">𝙷𝚒! 𝙸'𝚖 Abby.</h1>
 <div align="center" width="50">
   <image align= "center" src="https://github.com/user-attachments/assets/aa9fc9d3-e631-45a7-b269-287d185098c5" alt= "I'm a game developer!"/>
 </div>
