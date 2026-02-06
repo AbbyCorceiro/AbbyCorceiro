@@ -56,8 +56,7 @@
 
 <img align= "center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b>|Stats|</b></img>
 <div>
-  <img width= "335" src="https://github-readme-stats.vercel.app/api?username=AbbyCorceiro&show_icons=true&theme=vision-friendly-dark"/> 
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AbbyCorceiro&theme=highcontrast&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact"/> 
+  <img width= "335" src="https://github-readme-stats.vercel.app/api?username=AbbyCorceiro&show_icons=true&theme=vision-friendly-dark"/>
 </div>
 
 ##
